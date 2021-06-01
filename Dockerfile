@@ -10,6 +10,6 @@ RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
 
 #Install python requirements
-RUN pip3 install -r https://github.com/ridho17-ind/GBX-Userbot/requirements.txt
+RUN pip3 install -r https://github.com/ridho17-ind/GBX-Userbot
 
 CMD ["python3","-m","userbot"]
