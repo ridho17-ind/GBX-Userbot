@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/apisuserbot/GBX-Userbot",
-  "telegram": "https://t.me/PacarFerdilla",
-  "success_url": "https://t.me/PacarFerdilla",
+  "repository": "https://github.com/ridho17-ind/GBX-Userbot",
+  "telegram": "https://t.me/SkyzoSaja",
+  "success_url": "https://t.me/SkyzoSaja",
   "stack": "container",
   "env": {
     "API_KEY": {
