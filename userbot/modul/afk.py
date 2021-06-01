@@ -24,10 +24,10 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 AFKSTR = [
-    f"**💸AFK {ALIVE_NAME} Sedang Sibuk!💸**",
+    f"**💸AFK {ALIVE_NAME} Sedang Sibuk!🔒**",
     f"**💸AFK {ALIVE_NAME} Sedang Sibuk\n •Mohon Menunggu Hingga Dia Online Kembali⚡**",
     f"**💸AFK {ALIVE_NAME} Sedang Sibuk!\n •Mohon Jangan Spam Tunggu Dia Online Kembali⚡**",
-    f"**💸AFK {ALIVE_NAME} Sedang Sibuk!💸**",
+    f"**💸AFK {ALIVE_NAME} Sedang Sibuk!🔒**",
 ]
 
 
