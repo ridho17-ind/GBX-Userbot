@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/apisuserbot/GBX-Userbot/fork">
+  <a href="https://github.com/ridho17-ind/GBX-Userbot/fork">
     <img src="https://img.shields.io/github/forks/apisuserbot/GBX-Userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/apisuserbot/GBX-Userbot">
+  <a href="https://github.com/ridho17-ind/GBX-Userbot">
     <img src="https://img.shields.io/github/stars/apisuserbot/GBX-Userbot?style=social">
   </a>
 </p>  
